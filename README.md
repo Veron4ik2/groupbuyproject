@@ -4,9 +4,9 @@
 Платформа для совместных покупок помогает пользователям объединяться для приобретения товаров по оптовым ценам. Основной целью проекта является упрощение организации, автоматизация процессов и создание удобного интерфейса для взаимодействия участников и организаторов.
 
 ## Технологический стек
-- **Backend**: Python (Django/Flask/FastAPI).
-- **Frontend**: React/Angular/Vue.js.
-- **База данных**: PostgreSQL/MySQL.
-- **Уведомления**: Firebase, Twilio, или интеграция с Telegram API.
-- **Деплой и CI/CD**: Docker, Kubernetes, GitHub Actions.
+- **Backend**: Node.js.
+- **Frontend**: Vue.js.
+- **База данных**: PostgreSQL.
+- **Уведомления**: интеграция с Telegram API.
+- **Деплой и CI/CD**: Docker, Kubernetes.
 - **Документация API**: OpenAPI/Swagger.
